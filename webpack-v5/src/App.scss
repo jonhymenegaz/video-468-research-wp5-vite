@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+}
+
+body {
+  font-family: Helvetica, Arial, sans;
+  height: 100%;
+}
+
+div.app {
+  padding: 50px;
+
+  h1 {
+    font-size: 1.2rem;
+  }
+
+  p.date {
+    background: #eee;
+    padding: 5px 5px 5px 20px;
+    margin-top: 1.2rem;
+    border: 0 solid #ccc;
+    border-width: 2px 0;
+  }
+}
