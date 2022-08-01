@@ -1,49 +1,49 @@
 [
   {
     "id": 1,
-    "date": "01/08/2022",
+    "date": "7/31/22",
     "project": "Project A",
     "type": "Meeting",
     "hours": 2.5
   },
   {
     "id": 2,
-    "date": "01/08/2022",
+    "date": "7/31/22",
     "project": "Project A",
     "type": "Planning",
     "hours": 8
   },
   {
     "id": 3,
-    "date": "01/08/2022",
+    "date": "8/1/2022",
     "project": "Project B",
     "type": "Planning",
     "hours": 6
   },
   {
     "id": 4,
-    "date": "02/08/2022",
+    "date": "8/1/2022",
     "project": "Project A",
     "type": "Implementing Interfaces",
     "hours": 5
   },
   {
     "id": 5,
-    "date": "02/08/2022",
+    "date": "8/2/2022",
     "project": "Project C",
     "type": "Planning",
     "hours": 3.5
   },
   {
     "id": 6,
-    "date": "02/08/2022",
+    "date": "8/2/2022",
     "project": "Project H",
     "type": "Planning",
     "hours": 4.5
   },
   {
     "id": 7,
-    "date": "02/08/2022",
+    "date": "8/3/2022",
     "project": "Project C",
     "type": "Developing",
     "hours": 3.5
