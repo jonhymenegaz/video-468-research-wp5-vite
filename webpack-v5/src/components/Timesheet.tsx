@@ -13,19 +13,21 @@ const Timesheet = () => {
   }, [timesheet]);
   
   return (
-    <table>
-      <thead>
-        <tr>
-          <th>Project</th>
-          <th>Date</th>
-          <th>Annotation</th>
-          <th>Hours</th>
-        </tr>
-      </thead>
-      <tbody>
-        {timesheet.map(entry => <Entry entry={entry} key={entry.id} />)}
-      </tbody>
-    </table>
+    <div>
+      <table>
+        <thead>
+          <tr>
+            <th>Project</th>
+            <th>Date</th>
+            <th>Annotation</th>
+            <th>Hours</th>
+          </tr>
+        </thead>
+        <tbody>
+          {timesheet.map(entry => <Entry entry={entry} key={entry.id} />)}
+        </tbody>
+      </table>
+    </div>
   );
 }
 

@@ -9,6 +9,8 @@ body {
 
 div.app {
   padding: 50px;
+  width: 60%;
+  min-width: 500px;
 
   h1 {
     font-size: 1.2rem;
@@ -25,5 +27,14 @@ div.app {
     margin-top: 1.2rem;
     border: 0 solid #ccc;
     border-width: 2px 0;
+  }
+
+  div.container {
+    display: flex;
+    justify-content: space-between;
+
+    div img {
+      width: 400px;
+    }
   }
 }

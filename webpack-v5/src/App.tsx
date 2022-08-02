@@ -1,6 +1,7 @@
 import React from "react";
 import './App.scss';
 import Timesheet from "./components/Timesheet";
+import Beach from './images/beach.jpg';
 
 const App = () => {
 
@@ -11,7 +12,12 @@ const App = () => {
       <h1>Projects Timesheet <small>Webpack V5 POC App</small></h1>
       <p className="date">Today is {today}</p>
       
-      <Timesheet />
+      <div className="container">
+        <Timesheet />
+        <div>
+          <img src={Beach} alt="Beach" />
+        </div>
+      </div>
     </div>
   );
   };

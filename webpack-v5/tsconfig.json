@@ -12,8 +12,8 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react",
-    "typeRoots": ["node_modules/@types", "src/typings"],
+    "typeRoots": ["node_modules/@types"],
     "target": "ESNext"
   },
-  "include": ["src"]
+  "include": ["src", "config/types/index.d.ts"]
 }
