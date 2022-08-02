@@ -30,3 +30,15 @@ https://www.carlrippon.com/creating-react-app-with-typescript-eslint-with-webpac
 https://www.developerhandbook.com/webpack/how-to-configure-scss-modules-for-webpack/
 
 ## Vite Project
+
+### Features
+
+- Vite
+- React
+- Typescript Transpilation
+  
+  Vite only performs transpilation on .ts files and does NOT perform type checking. It assumes type checking is taken care of by your IDE and build process (you can run tsc --noEmit in the build script or install vue-tsc and run vue-tsc --noEmit to also type check your *.vue files).
+- ESLint
+- Dev Server with *Hot Reload*
+- Optimized Production
+- SASS Dev

@@ -14,7 +14,7 @@ const App = () => {
       
       <div className="container">
         <Timesheet />
-        <div>
+        <div className="image">
           <img src={Beach} alt="Beach" />
         </div>
       </div>
