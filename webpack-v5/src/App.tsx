@@ -4,7 +4,7 @@ import Timesheet from "./components/Timesheet";
 
 const App = () => {
 
-  const today = new Date("2022-08-01").toLocaleDateString();
+  const today = new Date().toLocaleDateString();
 
   return (
     <div className="app">

@@ -47,5 +47,12 @@
     "project": "Project C",
     "type": "Developing",
     "hours": 3.5
+  },
+  {
+    "id": 8,
+    "date": "9/4/2022",
+    "project": "Project Z",
+    "type": "Planning",
+    "hours": 2.1 
   }
 ]
