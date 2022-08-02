@@ -20,7 +20,7 @@
 
 Developing Server `npm start`
 
-Build for production `npm build`
+Build for production `npm run build`
 
 
 ### Sources
@@ -42,3 +42,13 @@ https://www.developerhandbook.com/webpack/how-to-configure-scss-modules-for-webp
 - Dev Server with *Hot Reload*
 - Optimized Production
 - SASS Dev
+
+### Commands
+
+`npm install`
+
+Developing Server `npm run dev`
+
+Build for production `npm run build`
+
+Preview production `npm run preview`
