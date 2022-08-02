@@ -78,7 +78,6 @@ const config: Configuration = {
     new HtmlWebpackPlugin({
       template: "src/index.html",
     }),
-    new HotModuleReplacementPlugin(),
     new ForkTsCheckerWebpackPlugin({
       async: false
     }),
