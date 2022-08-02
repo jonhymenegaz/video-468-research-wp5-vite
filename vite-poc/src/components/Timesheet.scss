@@ -1,0 +1,22 @@
+table {
+  border-collapse: collapse;
+
+  tr {
+    &:nth-of-type(odd) {
+      background-color: #eee;
+    }
+
+    th {
+      text-align: left;
+      padding: 10px;
+    }
+    
+    td {
+      padding: 10px;
+    }
+
+    td.hours {
+      text-align: right;
+    }
+  }
+}
