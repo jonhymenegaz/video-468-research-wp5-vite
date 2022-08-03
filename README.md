@@ -23,7 +23,7 @@ Developing Server `npm start`
 Build for production `npm run build`
 
 
-### Sources
+### References
 
 https://www.carlrippon.com/creating-react-app-with-typescript-eslint-with-webpack5/
 
@@ -53,7 +53,7 @@ Build for production `npm run build`
 
 Preview production `npm run preview`
 
-### Sources
+### References
 
 https://developer.okta.com/blog/2022/03/14/react-vite-number-converter
 
