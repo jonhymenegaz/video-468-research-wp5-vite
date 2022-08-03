@@ -48,6 +48,8 @@ https://medium.com/javascript-training/beginner-s-guide-to-webpack-b1f1a3638460
 - Dev Server with *Hot Reload*
 - Optimized Production
 - SASS Dev
+- Vitest
+- React Testing Library
 
 ### Commands
 
@@ -68,3 +70,5 @@ https://stackoverflow.com/questions/65589265/vite-how-to-use-sass
 https://vitejs.dev/guide/using-plugins.html
 
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite
+
+https://www.linkedin.com/pulse/setting-up-rtl-vite-react-project-william-ku/
