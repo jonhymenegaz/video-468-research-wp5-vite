@@ -29,6 +29,12 @@ https://www.carlrippon.com/creating-react-app-with-typescript-eslint-with-webpac
 
 https://www.developerhandbook.com/webpack/how-to-configure-scss-modules-for-webpack/
 
+https://medium.com/freestoneinfotech/setup-development-and-production-environment-for-react-app-397c4cc9e382
+
+https://webpack.js.org/configuration/
+
+https://medium.com/javascript-training/beginner-s-guide-to-webpack-b1f1a3638460
+
 ## Vite Project
 
 ### Features
