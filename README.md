@@ -66,3 +66,5 @@ https://developer.okta.com/blog/2022/03/14/react-vite-number-converter
 https://stackoverflow.com/questions/65589265/vite-how-to-use-sass
 
 https://vitejs.dev/guide/using-plugins.html
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite
