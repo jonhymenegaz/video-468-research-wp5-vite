@@ -1,0 +1,40 @@
+html {
+  height: 100%;
+}
+
+body {
+  font-family: Helvetica, Arial, sans;
+  height: 100%;
+}
+
+div.app {
+  padding: 50px;
+  width: 60%;
+  min-width: 500px;
+
+  h1 {
+    font-size: 1.2rem;
+
+    small {
+      color: #666;
+      margin-left: 30px;
+    }
+  }
+
+  p.date {
+    background: #eee;
+    padding: 5px 5px 5px 20px;
+    margin-top: 1.2rem;
+    border: 0 solid #ccc;
+    border-width: 2px 0;
+  }
+
+  div.container {
+    display: flex;
+    justify-content: space-between;
+
+    div img {
+      width: 400px;
+    }
+  }
+}

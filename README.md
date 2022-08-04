@@ -13,6 +13,8 @@
 - Optimized Production
 - SASS dev
 - Optimized Styles for Production with Mini CSS Extract Plugin
+- Jest
+- React Testing Library
 
 ### Commands
 
@@ -22,6 +24,7 @@ Developing Server `npm start`
 
 Build for production `npm run build`
 
+Run tests `npm run test`
 
 ### References
 
@@ -48,7 +51,7 @@ https://medium.com/javascript-training/beginner-s-guide-to-webpack-b1f1a3638460
 - Dev Server with *Hot Reload*
 - Optimized Production
 - SASS Dev
-- Vitest
+- Vitest or Jest
 - React Testing Library
 
 ### Commands
@@ -61,6 +64,8 @@ Build for production `npm run build`
 
 Preview production `npm run preview`
 
+Run tests `npm run test`
+
 ### References
 
 https://developer.okta.com/blog/2022/03/14/react-vite-number-converter
@@ -72,3 +77,5 @@ https://vitejs.dev/guide/using-plugins.html
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite
 
 https://www.linkedin.com/pulse/setting-up-rtl-vite-react-project-william-ku/
+
+https://codingwithmanny.medium.com/quick-jest-setup-with-vitejs-react-typescript-82f325e4323f
